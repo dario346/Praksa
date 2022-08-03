@@ -1,0 +1,8 @@
+C:\Users\Hael\Desktop\Praksa-main\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Hael\Desktop\Praksa-main\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Hael\Desktop\Praksa-main\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Hael\Desktop\Praksa-main\ConsoleApp1\ConsoleApp1\obj\Debug\Search.csproj.AssemblyReference.cache
+C:\Users\Hael\Desktop\Praksa-main\ConsoleApp1\ConsoleApp1\obj\Debug\Search.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hael\Desktop\Praksa-main\ConsoleApp1\ConsoleApp1\obj\Debug\Search.csproj.CoreCompileInputs.cache
+C:\Users\Hael\Desktop\Praksa-main\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Hael\Desktop\Praksa-main\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
